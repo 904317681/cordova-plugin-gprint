@@ -1,0 +1,1 @@
+此插件基于Gprinter SDK，适用于 Android 和IOS 平台。
